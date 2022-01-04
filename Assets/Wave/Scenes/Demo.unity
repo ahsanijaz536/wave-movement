@@ -248,11 +248,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc9b0d21773fc4168b41221556757bd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateMode: 0
   curveAmount: 30
   wavePart: {fileID: 2874305929609817677, guid: 1a8650a14c0ee430c9f536c6c07b8abc, type: 3}
-  spawnCount: 50
+  spawnCount: 5
   wavePartsContainer: []
-  waveStartPoint: {fileID: 549003901}
 --- !u!4 &546481917
 Transform:
   m_ObjectHideFlags: 0
